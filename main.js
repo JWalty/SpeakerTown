@@ -21,7 +21,9 @@ const subtitles = [
     "Congrats Chris!",
     "FEMA Deathcamp, FEMA Deathcamp",
     "iron ingot",
-    "Home sweet /home home"
+    "Home sweet /home home",
+    "What does the customer say?",
+    "No no no, but she ISN'T your sister!"
 ];
 
 heroSubtitle.textContent = subtitles[Math.floor(Math.random() * subtitles.length)];
