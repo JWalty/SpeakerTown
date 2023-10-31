@@ -46,6 +46,10 @@ h1 {
     color: white;
 }
 
+ol, li {
+    margin-bottom: 0;
+}
+
 h3 {
     margin-bottom: 0px;
 }
